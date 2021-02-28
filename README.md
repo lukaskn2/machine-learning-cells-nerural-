@@ -1,2 +1,2 @@
 # project-1-machine-learning-celulas-
-dont saty parfect i stay crafiting repear the errors but idea primary is creat one celulas e agregrear valores nelas 
+THIS PROJECT IS CREATING NEURAL CELLS USING COMPUTER CODE TO AGGREGATE VALUES IN VARIABLE PREQUEENAS WITH PLAVRAS KEYS THIS SO AT THE BEGINNING HAS MORE ERRORS I AM DEDICATING MYSELF IN DEVELOPING SUCH
